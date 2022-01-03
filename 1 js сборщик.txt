@@ -1,0 +1,3 @@
+npm i jquery --save 			не для разработчиков!!! зависимость чтобы отработала уже используемая в файлах jquery 
+npm i slick-carousel --save		тоже самое только slick-carousel
+		отобразится в папке package.json
